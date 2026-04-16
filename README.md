@@ -2,7 +2,7 @@
 A simple diceRoller written in Java.
 
 ## How it works
-The software requiare to user to set the number of dices and the number of dices's faces.
+The software require to user to set the number of dices and the number of dices's faces.
 
 The number of dices is limited to 30 and the faces of dices choise are d4, d6, d8, d12 and d20.
 
