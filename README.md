@@ -8,3 +8,4 @@ The number of dices is limited to 30 and the faces of dices choise are d4, d6, d
 
 Once the require data has been given, the software create n dice object(s) and roll the dice/dices and show the result in a sum.
 
+The software has no GUI.
