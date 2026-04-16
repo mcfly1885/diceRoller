@@ -1,4 +1,4 @@
-# Dice Roller
+# Dice Roller 🎲
 A simple dice roller written in Java.
 
 ## How it works

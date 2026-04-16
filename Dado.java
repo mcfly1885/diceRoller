@@ -19,7 +19,7 @@ public class Dado {
 
     public int lanciaDado(){
         Random gen = new Random();
-        return gen.nextInt(this.faces)+1;
+        return gen.nextInt(this.faces)+1; 
     }    
     
 }
